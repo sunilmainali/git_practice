@@ -2,7 +2,7 @@ def addition(a, b):
     c = a + b
     return c
 
-c = addition(3, 5)
+c = addition(3, 9)
 print(c)
 
 def multiply(a, b):
