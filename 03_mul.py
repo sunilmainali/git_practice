@@ -1,3 +1,3 @@
 def multiply(a,b):
     return a*b
-multiply(6,7)
+multiply(10,11)
