@@ -9,5 +9,5 @@ def multiply(a, b):
     m = a * b
     return m
 
-m = multiply(3, 7)
+m = multiply(10, 10)
 print(m)
