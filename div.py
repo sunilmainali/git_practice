@@ -1,4 +1,4 @@
-def divide(a, b):
-    if b == 0:
+def divide(a, c):
+    if c == 0:
         return "Cannot divide by zero"
-    return a / b
+    return a / c
